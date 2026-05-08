@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "nome": "Keycap Artesanal 'Magma'",
+      "descricao": "Keycap em resina feita à mão para teclados mecânicos.",
+      "preco": 85.00,
+      "categoria": "Acessórios"
+    },
+    {
+      "id": 2,
+      "nome": "Luminária Holocron Jedi",
+      "descricao": "Réplica com efeito de luz pulsante em azul.",
+      "preco": 210.00,
+      "categoria": "Decoração"
+    },
+    {
+      "id": 3,
+      "nome": "Mousepad 'Cyberpunk City'",
+      "descricao": "90x40cm, bordas costuradas e superfície speed.",
+      "preco": 120.00,
+      "categoria": "Acessórios"
+    },
+    {
+      "id": 4,
+      "nome": "Mini PC Retrô (Emulador)",
+      "descricao": "Case estilo GameBoy que roda até PS1.",
+      "preco": 450.00,
+      "categoria": "Hardware"
+    },
+    {
+      "id": 5,
+      "nome": "Action Figure 'Geralt of Rivia'",
+      "descricao": "Estátua rica em detalhes, 25cm.",
+      "preco": 320.00,
+      "categoria": "Colecionáveis"
+    },
+    {
+      "id": 6,
+      "nome": "Camiseta 'Binary Tree'",
+      "descricao": "Estampa que brilha no escuro com lógica de dados.",
+      "preco": 89.90,
+      "categoria": "Vestuário"
+    },
+    {
+      "id": 7,
+      "nome": "Headset Stand RGB",
+      "descricao": "Suporte com hub USB 3.0 integrado.",
+      "preco": 150.00,
+      "categoria": "Acessórios"
+    },
+    {
+      "id": 8,
+      "nome": "Quadro Interativo Spotify",
+      "descricao": "Placa de acrílico com sua música Geek favorita.",
+      "preco": 65.00,
+      "categoria": "Decoração"
+    },
+    {
+      "id": 9,
+      "nome": "Kit de Dados RPG (Metal)",
+      "descricao": "Set completo de D20 a D4 em metal envelhecido.",
+      "preco": 130.00,
+      "categoria": "Jogos"
+    },
+    {
+      "id": 10,
+      "nome": "Suporte de GPU 'Neon'",
+      "descricao": "Suporte anti-empenamento com fita LED ARGB.",
+      "preco": 110.00,
+      "categoria": "Hardware"
+    }
+  ]
